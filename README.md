@@ -1,16 +1,14 @@
-### Hi there 👋
+Olá, me chamo Trajano Luan!
+Bem vindo ao meu perfil GitHub 😁
 
-<!--
-**LuanNTt/LuanNTt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img loading="lazy" height="250em"  src="https://github-readme-stats.vercel.app/api?username=LuanNTt&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"/> <img loading="lazy" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanNTt&langs_count=6&hide=html,css,ejs&layout=pie&theme=dracula&locale=pt-br"/>
+
+Contatos:
+<div>
+<a href = "mailto:trajanoluan2006@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
